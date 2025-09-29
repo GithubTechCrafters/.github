@@ -1,1 +1,1 @@
-# .github
+# TechCrafters GmbH
