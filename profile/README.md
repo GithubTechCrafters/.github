@@ -10,5 +10,4 @@ TechCrafters GmbH is an innovative software company specializing in custom digit
 
 ## 📚 Resources
 - 🌐 [Our Website](https://www.techcrafters.de)  
-- 🧾 [Documentation & API Reference](https://docs.techcrafters.de)  
 - 📫 Contact us: [info@techcrafters.de](mailto:info@techcrafters.de)
