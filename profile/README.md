@@ -1,12 +1,14 @@
-## Hi there 👋
+# 👋 Welcome to TechCrafters GmbH
 
-<!--
+TechCrafters GmbH is an innovative software company specializing in custom digital solutions for industry and mid-sized businesses. We combine technical expertise with practical implementation — from concept to final product.
 
-**Here are some ideas to get you started:**
+## 🚀 What We Do
+- 🏭 MES solutions for the textile and manufacturing industries
+- 📱 Mobile apps with cloud integration
+- 🔧 IoT, edge computing and plc projects
+- 🛠️ Custom software development for web, backend, and embedded systems
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📚 Resources
+- 🌐 [Our Website](https://www.techcrafters.de)  
+- 🧾 [Documentation & API Reference](https://docs.techcrafters.de)  
+- 📫 Contact us: [info@techcrafters.de](mailto:info@techcrafters.de)
